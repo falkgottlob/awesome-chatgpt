@@ -27,6 +27,7 @@ ChatGPT is an AI chatbot developed by OpenAI, based on large language models lik
 ## Prompt Collections
 
 - **[Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)** – Curated list of high-quality, ready-to-use ChatGPT prompts.
+- **[Falkster AI Agent Army](https://falkster.com/handbook/ai-agent-army)** – 44 free AI agent blueprints for product managers: prompt, eval rubric, and ship-readiness gate with each. No signup.
 - **[FlowGPT](https://flowgpt.com/)** – Discover and share top ChatGPT prompts from the community.
 - **[PromptBase](https://promptbase.com/)** – Marketplace for buying and selling effective prompts.
 - **[PromptHero](https://prompthero.com/)** – Prompts for ChatGPT, Midjourney, and more.
